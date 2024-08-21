@@ -34,12 +34,12 @@ This is a basic C++ login system on Android.
 - [zMemory](https://github.com/ac3ss0r/ZMemory)
 - [FRNetLib](https://github.com/Cloaked9000/frnetlib)
 
-## Administrator Dashboard:
+## Administrator Dashboard
 - [Kuro Login PHP](https://github.com/git-shy1/Executable-Cpp-Based-Kuro-Login/blob/main/PHP-Files/KuroPanel.zip)
   **Just watch setup from some random Indian.**
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL-3.0 License](LICENSE).
 
 ## Contact
 - [Telegram](https://t.me/ngocbaocheat/)
